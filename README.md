@@ -3,10 +3,10 @@
   </br>
   </br>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/garciaant/">
+    <a href="https://www.linkedin.com/in/garciaant/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="your-youtube-URL">
+    <a href="https://www.npmjs.com/package/chakra-ui-time-scroller" target="_blank">
       <img src="https://img.shields.io/badge/Latest%20NPM%20package-chakra--ui--time--scroller-orange?style=for-the-badge&logo=npm&logoColor=white" alt="Chakra UI Time Scroller Npm package link"/>
     </a>
   </div>
