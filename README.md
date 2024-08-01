@@ -14,6 +14,7 @@
     </a>
   </div>
   <h2>⚡ I’m currently working on ...</br><a href="https://pollop.app" target="_blank">pollop</a>!</h2>
+  <h3>Past Projects: <a href="https://schext.com" target="_blank">schext</a> | <a href="https://app.receiptdash.com" target="_blank">receiptdash</a></h3>
 </div>
 
 
