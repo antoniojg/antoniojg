@@ -13,7 +13,7 @@
         <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Consulting"/>
     </a>
   </div>
-  <h2>⚡ I’m currently working on ...</br><a href="https://schext.com" target="_blank">schext</a>!</h2>
+  <h2>⚡ I’m currently working on ...</br><a href="https://pollop.app" target="_blank">pollop</a>!</h2>
 </div>
 
 
