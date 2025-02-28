@@ -9,9 +9,9 @@
     <a href="https://www.npmjs.com/package/chakra-ui-time-scroller" target="_blank">
       <img src="https://img.shields.io/badge/Latest%20NPM%20package-chakra--ui--time--scroller-orange?style=for-the-badge&logo=npm&logoColor=white" alt="Chakra UI Time Scroller Npm package link"/>
     </a>
-    <a href="https://zahara.consulting/" target="_blank">
+<!--     <a href="https://zahara.consulting/" target="_blank">
         <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Consulting"/>
-    </a>
+    </a> -->
   </div>
   <h2>⚡ I’m currently working on ...</br><a href="https://pollop.app" target="_blank">pollop</a>!</h2>
   <h3>Past Projects: <a href="https://schext.com" target="_blank">schext</a> | <a href="https://app.receiptdash.com" target="_blank">receiptdash</a></h3>
