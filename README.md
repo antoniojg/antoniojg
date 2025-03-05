@@ -1,6 +1,9 @@
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/MEjvnZcCDhwbk5MazZ/giphy.gif?cid=6c09b95231831bbc47007b32a203c24d19fa0b68ab717d3c&rid=giphy.gif&ct=s" width="100px"/>
   </br>
+  <h4><a href="mailto:antoniojg21@gmail.com">antoniojg21@gmail.com</a></h4>
+  <p>My name is Antonio and I am a Full Stack Engineer and QA Engineering lead!</p>
+  
   </br>
   <div id="badges">
     <a href="https://www.linkedin.com/in/garciaant/" target="_blank">
